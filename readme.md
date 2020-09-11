@@ -4,6 +4,7 @@
 Here is a line added using GITHUB.
 
 # Chapter 1
+Some chapter 1 text
 
 # Chapter 2
 
