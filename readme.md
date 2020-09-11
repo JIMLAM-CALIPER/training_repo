@@ -11,4 +11,5 @@ This is some of my text for chapter 2
 
 yeah
 
+More stuff in chapter 2
 # Chapter 3
